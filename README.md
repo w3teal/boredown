@@ -1,3 +1,7 @@
+> # This repository has been moved!
+> 
+> See this repository on [SourceHut](https://sourcehut.org/): https://git.sr.ht/~w3teal/boredown
+
 # boredown
 
 Simply writing and make site in Markdown without feel stupid for just knowing basic. **+ It's has perfect Lighthouse score!**  
